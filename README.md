@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/chenglun11/count.svg)
 <!--
 **chenglun11/chenglun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
