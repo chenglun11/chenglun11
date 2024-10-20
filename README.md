@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Federated Learning.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, master in Un Of York.
 - 💼 &nbsp; front-end web developer.
